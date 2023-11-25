@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] Be part of IEDC
+- [ ] Help provide the world with my goodness
